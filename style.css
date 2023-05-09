@@ -31,7 +31,7 @@ display: flex;
 padding: 0.3rem;
 margin: 1.4rem;
 color:white;
-background-color: gray;
+background-color: rgb(233, 214, 214);
 }
 span{
     color: blue;
